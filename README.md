@@ -25,6 +25,11 @@ Python
 Rule-based pattern matching
 Git & GitHub
 
+👥 Team
+
+Developed as part of a 4-member team during Cyber Shield Hackathon
+Role: Contributed to detection logic and input validation
+
 🔮 Future Improvements
 
 Machine learning-based threat detection
